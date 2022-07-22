@@ -1,3 +1,5 @@
+# version 1.0.0
+
 Installation Errors & Improvements:
 
 1. pip install wheel
