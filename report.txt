@@ -1,0 +1,13 @@
+Installation Errors & Improvements:
+
+1. pip install wheel
+2. pip install -r requirements.txt [pip install python-docx, pip install pypiwin32, pip install keyboard, pip install pyautogui, pip install PySimpleGUI]
+
+First start-up time: 2.97 secs [Creating all essential files]
+Second start-up time: 1.67 secs
+Third start-up time: 1.97 secs
+Fourth start-up time: 1.64 secs
+
+Conclusion: Took 33 mins to completely debug it. 
+Suggestion: Find approciate substitution for readline module as its development is stopped in 15.
+
