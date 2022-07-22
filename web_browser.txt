@@ -1,0 +1,22 @@
+# version (1.0.0) (04.05.22)
+
+Installation Errors & Improvements:
+
+1. pip install PyQtWebEngine
+
+First start-up time: 1.68 secs
+Second start-up time: 1.69 secs
+Third start-up time: 1.69 secs
+
+
+Executing standalone file:
+
+1. Extract build.zip (extrated 4747 items, took 7.10.78 mins)
+2. Run main.exe (prompts windows security, unknown publisher)
+
+First start-up time: 1.78 secs
+Second start-up time: 1.75 secs
+Third start-up time: 1.70 secs
+
+Conclusion: Extracting build.zip takes forever.
+Suggestion: Improve setup of software.
